@@ -41,6 +41,7 @@
 | Project | Description |
 |---|---|
 | [TI-BQ25713-Cross-Platform-Library](https://github.com/MCwasd/TI-BQ25713-Cross-Platform-Library) | Cross-platform driver for BQ25713 charger IC (Arduino / Linux / RPi) |
+| [openclaw-image-vision-skill](https://github.com/MCwasd/openclaw-image-vision-skill) | Local vision skill for OpenClaw — llama-server + Qwen3.5-2B, fully offline image analysis |
 | [deepseek-platform-widget](https://github.com/MCwasd/deepseek-platform-widget) | Android widget showing real-time DeepSeek API usage |
 | [openclaw-auto-rename-plugin](https://github.com/MCwasd/openclaw-auto-rename-plugin) | OpenClaw session auto-rename plugin with local LLM support |
 
