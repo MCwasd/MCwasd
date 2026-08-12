@@ -8,6 +8,7 @@
 
 [![School](https://img.shields.io/badge/China_University_of_Petroleum-(East)-0B4F8B?style=flat-square)](https://www.upc.edu.cn)
 [![Major](https://img.shields.io/badge/Electrical_Engineering-0B4F8B?style=flat-square&logo=electron&logoColor=white)]()
+[![Website](https://img.shields.io/badge/tiramisu--server.cc-8466ff?style=flat-square&logo=cloudflare&logoColor=white)](https://tiramisu-server.cc)
 
 - ⚡ Passionate about **power electronics**, **embedded systems**, **battery storage**, and **intelligent control**
 - 🔧 Building from PCB design to bare-metal firmware — STM32, ESP32, RISC-V, Raspberry Pi
